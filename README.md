@@ -1,6 +1,6 @@
 # Hi, I'm Wribhu Nandi 👋
 
-💻 MCA Student at NSEC, Kolkata  
+💻 MCA Student at NSEC, Kolkata. 
 🎓 B.Sc (Computer Science) Graduate  
 🚀 Passionate Full Stack Developer  
 
